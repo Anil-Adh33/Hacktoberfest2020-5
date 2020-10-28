@@ -270,3 +270,7 @@
  - Place: Kerala, India
  - Bio: Student, Programming enthusiast
  - Github: [SnappierSoap318](https://github.com/SnappierSoap318)
+ #### Name: [Anil Adhiakri](https://github.com/Anil-Adh33)
+- Place: tandi, nepal
+- Bio: coder, backend developer
+- GitHub: [Anil-Adh33](https://github.com/Anil-Adh33)
